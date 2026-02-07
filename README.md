@@ -74,3 +74,24 @@ Sakshi Devi – Database / Testing
 ## Status
 
 This project is currently in prototype stage for Hackathon 2026.
+
+---
+
+## How to Run (Prototype)
+
+### Frontend
+Open:
+frontend/index.html  
+in any web browser.
+
+### Backend
+Install Node.js first.
+
+Then run:
+
+npm install express  
+node backend/server.js
+
+Open in browser:
+http://localhost:3000
+

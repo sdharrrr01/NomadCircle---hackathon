@@ -1,0 +1,5 @@
+NomadCircle Hackathon Project
+Prototype Repository
+University of Jammu 2026
+
+This folder will contain PPT, screenshots, and documentation.
